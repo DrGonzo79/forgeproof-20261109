@@ -1,0 +1,8 @@
+{
+  "fixtures": [
+    {"id":"ring","name":"Riven Gold Signet","maker":"Mara Vale Studio","category":"Jewelry","value":680,"materials":3,"receipts":3,"stages":5,"photos":11,"timestamps":true,"inspection":true,"story":"Hand-carved wax, cast in recycled 14k gold, finished at a one-person bench."},
+    {"id":"vase","name":"Ash Glaze Vessel","maker":"Northline Clay","category":"Ceramics","value":240,"materials":2,"receipts":1,"stages":4,"photos":5,"timestamps":true,"inspection":false,"story":"Thrown stoneware with a studio-mixed ash glaze and reduction firing."},
+    {"id":"bag","name":"Bridle Weekender","maker":"Common Hide Works","category":"Leather","value":920,"materials":4,"receipts":2,"stages":3,"photos":4,"timestamps":false,"inspection":true,"story":"Hand-cut bridle leather, saddle stitched and edge burnished in-house."}
+  ],
+  "rules":{"version":"FP-0.1","minimumStages":4,"minimumPhotos":6,"materialWeight":20,"receiptWeight":20,"stageWeight":25,"photoWeight":20,"timestampWeight":10,"inspectionWeight":5}
+}
